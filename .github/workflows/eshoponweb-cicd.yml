@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: azuredevopsrg
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 2e8bfe5d-792c-4499-b554-92aef5238419
+  SUBSCRIPTION-ID:2e8bfe5d-792c-4499-b554-92aef5238419
   WEBAPP-NAME: eshoponweb-webapp-ketan070425
 
 
